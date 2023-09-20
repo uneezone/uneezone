@@ -1,6 +1,6 @@
-#  👨🏻‍💻 About me
+##  👨🏻‍💻 About me
 
-<div align=center><h1>🚀 TECHS & TOOLS</h1></div>
+<div><h2>🚀 TECHS & TOOLS</h2></div>
 
 <div align=center> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
