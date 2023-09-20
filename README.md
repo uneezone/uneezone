@@ -1,5 +1,7 @@
 ##  👨🏻‍💻 About me
 
+* 아이티윌 자바 웹개발자 139기 2023.01.31. ~ 2023.07.04.
+
 <div><h2>🚀 TECHS & TOOLS</h2></div>
 
 <div> 
@@ -16,11 +18,9 @@
 <img src="https://img.shields.io/badge/SPIRNG-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/AMAZON AWS-232F3E?style=flat-square&logo=amazonAWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/APACHE TOMCAT-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
-<br>
 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white"/>
-<br>
+<img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
 
