@@ -10,17 +10,17 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
 <br>
 
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=ORACLE&logoColor=white"/> 
-<img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=ORACLE&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MARIA DB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <br>
 
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPIRNG-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazonAWS-232F3E?style=flat-square&logo=amazonAWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/APACHE TOMCAT-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
 <br>
 
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white"/>
 <br>
 </div>
 
