@@ -1,5 +1,4 @@
 #  👨🏻‍💻 About me
----
 
 <div align=center><h1>🚀 TECHS & TOOLS</h1></div>
 
