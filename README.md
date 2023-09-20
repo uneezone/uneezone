@@ -1,10 +1,11 @@
 ##  👨🏻‍💻 About me
 
-* 아이티윌 자바 웹개발자 139기 2023.01.31. ~ 2023.07.04.
+* 아이티윌 자바 웹개발자 139기 *2023.01.31. ~ 2023.07.04*
 
 <div><h2>🚀 TECHS & TOOLS</h2></div>
 
-<div> 
+<div>
+✔ SKILLS
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -15,12 +16,18 @@
 <img src="https://img.shields.io/badge/MARIA DB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <br>
 
+✔ TOOLS
 <img src="https://img.shields.io/badge/SPIRNG-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/AMAZON AWS-232F3E?style=flat-square&logo=amazonAWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/APACHE TOMCAT-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>
+</div>
+
+## 📬 Find me at
+<div>
+  
 </div>
 
 
