@@ -30,7 +30,7 @@
 ## 📬 Find me at
 <div>
   
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://torpid-moonflower-70d.notion.site/3bcaeeeda60947e082c0b9d26a60a435?pvs=4)](https://torpid-moonflower-70d.notion.site/3bcaeeeda60947e082c0b9d26a60a435?pvs=4)
+  [![Resume Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://torpid-moonflower-70d.notion.site/3bcaeeeda60947e082c0b9d26a60a435?pvs=4)](https://torpid-moonflower-70d.notion.site/3bcaeeeda60947e082c0b9d26a60a435?pvs=4)
 </div>
 
 
